@@ -4,7 +4,14 @@ annotationutil
 Get all annotations of a Java class, methods, and parameters. Returned 
 annotations include all annotations of the classes interfaces and super classes.
 
-Example usage:
+# Code
+
+The code consists of a single Java file: [AnnotationUtil.java](https://github.com/josdejong/annotationutil/blob/master/src/main/java/com/almende/util/AnnotationUtil.java).
+You can include this file in your project, or built the project and include
+it as a jar.
+
+
+# Example
 
     package com.almende.util;
 
