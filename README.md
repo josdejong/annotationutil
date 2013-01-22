@@ -1,4 +1,4 @@
-annotationutil
+AnnotationUtil
 ==============
 
 Get all annotations of a Java class, methods, and parameters. Returned 
@@ -6,9 +6,9 @@ annotations include all annotations of the classes interfaces and super classes.
 
 # Code
 
-The code consists of a single Java file: [AnnotationUtil.java](https://github.com/josdejong/annotationutil/blob/master/src/main/java/com/almende/util/AnnotationUtil.java).
-You can include this file in your project, or built the project and include
-it as a jar.
+The project is a Maven project. The code consists of a single Java file: 
+[AnnotationUtil.java](https://github.com/josdejong/annotationutil/blob/master/src/main/java/com/almende/util/AnnotationUtil.java).
+You can include this file in your project, or build the project and include it as a jar.
 
 
 # Example
