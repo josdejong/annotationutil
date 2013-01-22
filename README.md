@@ -4,11 +4,13 @@ AnnotationUtil
 Get all annotations of a Java class, methods, and parameters. Returned 
 annotations include all annotations of the classes interfaces and super classes.
 
-## Code
+## Usage
 
-The project is a Maven project. The code consists of a single Java file: 
-[AnnotationUtil.java](https://github.com/josdejong/annotationutil/blob/master/src/main/java/com/almende/util/AnnotationUtil.java).
-You can include this file in your project, or build the project and include it as a jar.
+The project is a Maven project. The code consists of a single Java file, 
+AnnotationUtil.java. To use the utility, you can:
+
+- add the sourcefile [Annotation.java](https://github.com/josdejong/annotationutil/blob/master/src/main/java/com/almende/util/AnnotationUtil.java) to your project.
+- add the [built jar](https://github.com/josdejong/annotationutil/tree/master/target) to your project.
 
 
 ## Example
