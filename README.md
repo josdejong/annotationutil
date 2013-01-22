@@ -9,7 +9,7 @@ annotations include all annotations of the classes interfaces and super classes.
 The project is a Maven project. The code consists of a single Java file, 
 AnnotationUtil.java. To use the utility, you can:
 
-- add the sourcefile [Annotation.java](https://github.com/josdejong/annotationutil/blob/master/src/main/java/com/almende/util/AnnotationUtil.java) to your project.
+- add the sourcefile [AnnotationUtil.java](https://github.com/josdejong/annotationutil/blob/master/src/main/java/com/almende/util/AnnotationUtil.java) to your project.
 - add the built jar [annotationutil.x.x.x.jar](https://github.com/josdejong/annotationutil/tree/master/target) to your project.
 
 
